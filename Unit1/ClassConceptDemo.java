@@ -1,4 +1,4 @@
-package Unit1;
+package JavaNotes.Unit1;
 import java.util.*;
 class rectangle{
     private int length;
